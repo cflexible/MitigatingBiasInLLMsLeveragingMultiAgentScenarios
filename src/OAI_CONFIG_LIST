@@ -1,0 +1,37 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "UseYourOwnOpenAIApiKey",
+        "tags": ["gpt-4", "tool"]
+    },
+    {
+        "model": "gpt-4o",
+        "api_key": "UseYourOwnOpenAIApiKey",
+        "tags": ["gpt-4o", "tool"]
+    },
+    {
+        "model": "gpt-3.5-turbo",
+        "api_key": "UseYourOwnOpenAIApiKey",
+        "tags": ["gpt-3.5-turbo", "tool"]
+    },
+    {
+        "model": "TheBloke/Llama-2-7B-Chat-GGUF",
+        "api_key": "lm-studio",
+        "base_url": "http://localhost:1234/v1"
+    },
+    {
+        "model": "lmstudio-community/Meta-Llama-3-8B-Instruct-GGUF",
+        "api_key": "lm-studio",
+        "base_url": "http://localhost:1234/v1"
+    },
+    {
+        "model": "easynet/google-gemma-1.1-7b-it-GGUF",
+        "api_key": "lm-studio",
+        "base_url": "http://localhost:1234/v1"
+    },
+    {
+        "model": "carterprince/google-gemma-2-27b-it-ortho-Q4_K_S-GGUF",
+        "api_key": "lm-studio",
+        "base_url": "http://localhost:1234/v1"
+    }
+]
